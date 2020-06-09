@@ -861,6 +861,10 @@
 
 		/* Basic */
 
+			img {
+				max-width: 300px;
+			}
+
 			body {
 				min-width: 320px;
 			}
